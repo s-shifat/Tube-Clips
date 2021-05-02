@@ -5,6 +5,7 @@ import tkinter.ttk as ttk
 from tkinter.filedialog import askdirectory
 from datetime import timedelta
 import os
+import time
 
 class Application(tk.Frame):
     def __init__(self, master):
@@ -123,6 +124,8 @@ class Application(tk.Frame):
                 self.master.update()
             self.statusVar.set('File Downloaded Successfully!')
             self.changeExtension(file)
+            time.sleep(3)
+            os.startfile(folderpath)
         else:
             if self.mp3.get():
                 audio_path = os.path.join(folderpath,f"{self.playlist.title}-AUDIO")
@@ -156,7 +159,10 @@ class Application(tk.Frame):
                     self.statusVar.set(f"Downloading Video: completed!")
                     self.master.update()
             self.statusVar.set('All Files Downloaded!')
+            time.sleep(3)
+            os.startfile(folderpath)
         self.progressBar.stop()
+
 
 
     def changeExtension(self, filePath, extension='.mp3'):
