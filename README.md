@@ -14,7 +14,7 @@ Then open it, you will know what to do.
 ### How to use?
 
 Using this program is also easy as well.
-  * Copy and paste (use `ctrl-c` and `ctrl-v`) the url of your desired youtube video in the entry box. You can add a single video url or even a playlist!
+  * Copy and paste (use `ctrl-c` and `ctrl-v`) the url of your desired youtube video/playlist in the entry box. Yes, you can also download an entire playlist!
   * Now press the `Check` button
   * If your url is correct, the program will give you options to choose whether you want to download the *audio only* or *video only* or *both*.
   * Now click on the `Download` button.
