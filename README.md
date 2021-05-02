@@ -22,5 +22,5 @@ Using this program is also easy as well.
 
 ##### If you find any problems, feel free to email me: sshifat022@gmail.com or post an [issue](https://github.com/s-shifat/Tube-Clips/issues)<br>
 
-preview of the main interface:<br>
-![](https://github.com/s-shifat/Tube-Clips/blob/main/distribution/screen-shot/main-interface.png)
+##### preview of the main interface:<br>
+![main-interface](https://github.com/s-shifat/Tube-Clips/blob/main/distribution/screen-shot/main-interface.png)
