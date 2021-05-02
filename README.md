@@ -6,7 +6,7 @@ I mainly wrote this program as I have been spending few days exploring `tkinter`
 ### How to install?
 
 Well installing is pretty easy.<br>
-Download the [`Setup.exe file`](https://github.com/s-shifat/Tube-Clips/blob/main/distribution/Setup.exe) and you are good to go.
+Download the [`Setup.exe file`](https://github.com/s-shifat/Tube-Clips/raw/main/distribution/Setup.exe) and you are good to go.
 Then open it, you will know what to do.
 ##### *Note: Just make sure you give your browser the proper permissions as you are downloading a file with `.exe` extension.*
 
