@@ -1,6 +1,6 @@
 # Tube-Clips
 
-This is a simple youtube video and audo downloader program. This is writen in python-3. The main libraries I used are `tkinter` and `pytube`.
+This is a simple youtube video and audio downloader program. This is writen in python-3. The main libraries I used are `tkinter` and `pytube`.
 I mainly wrote this program as I have been spending few days exploring `tkinter`.
 
 ### How to install?
